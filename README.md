@@ -22,3 +22,9 @@
 This add-on is for use with the French translation of BP-BGT Worldmap. Using it gives you a worldmap with writing in French.
 
 You apply the add-on by placing the included :file_folder: *moz* folder in *bp-bgt-worldmap/language/french*. On Windows you can do this simply by extracting the add-on on top of the extracted contents of the main BP-BGT Worldmap package.
+
+## Version
+
+- V9.0.0 for BP-BGT-Worldmap v3.10 to v10.2.6
+
+- V9.0.5 for BP-BGT-Worldmap v10.2.7 or higher

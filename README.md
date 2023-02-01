@@ -14,6 +14,8 @@
 **Mod Website and Forum:** <a href="http://www.shsforums.net/forum/401-worldmap/">Spellhold Studios</a><br /><br />
 
 
+[Link to Worldmap mod](https://github.com/SpellholdStudios/BP-BGT-Worldmap)
+
 <hr>
 
 

@@ -14,6 +14,8 @@
 **Mod Website and Forum:** <a href="http://www.shsforums.net/forum/401-worldmap/">Spellhold Studios</a><br /><br />
 
 
+[Link to Worldmap mod](https://github.com/SpellholdStudios/BP-BGT-Worldmap)
+
 <hr>
 
 
@@ -22,3 +24,9 @@
 This add-on is for use with the French translation of BP-BGT Worldmap. Using it gives you a worldmap with writing in French.
 
 You apply the add-on by placing the included :file_folder: *moz* folder in *bp-bgt-worldmap/language/french*. On Windows you can do this simply by extracting the add-on on top of the extracted contents of the main BP-BGT Worldmap package.
+
+## Version
+
+- V9.0.0 for BP-BGT-Worldmap v3.10 to v10.2.6
+
+- V9.5.0 for BP-BGT-Worldmap v11 or higher

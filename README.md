@@ -29,4 +29,4 @@ You apply the add-on by placing the included :file_folder: *moz* folder in *bp-b
 
 - V9.0.0 for BP-BGT-Worldmap v3.10 to v10.2.6
 
-- V9.5.0 for BP-BGT-Worldmap v11 or higher
+- V10.0.0 for BP-BGT-Worldmap v11
